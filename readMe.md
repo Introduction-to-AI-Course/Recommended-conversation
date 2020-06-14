@@ -32,6 +32,6 @@ Conversational-Recommendation-BASELINE
 
 
 ## 参考资料
-[1] Raymond Li, Samira Ebrahimi Kahou, Hannes Schulz, Vincent Michalski, Laurent Charlin, and Chris Pal. 2018. Towards deep conversational recommendations. In NIPS
-[2] Qibin Chen, Junyang Lin, Yichang Zhang, Ming Ding, Yukuo Cen, Hongxia Yang, and Jie Tang. 2019. Towards knowledge-based recommender dialog system. In EMNLP
-[3] [AI Studio 基线系统示例AI Studio baseline model](https://aistudio.baidu.com/aistudio/projectdetail/360479)
++ [1] Raymond Li, Samira Ebrahimi Kahou, Hannes Schulz, Vincent Michalski, Laurent Charlin, and Chris Pal. 2018. Towards deep conversational recommendations. In NIPS
++ [2] Qibin Chen, Junyang Lin, Yichang Zhang, Ming Ding, Yukuo Cen, Hongxia Yang, and Jie Tang. 2019. Towards knowledge-based recommender dialog system. In EMNLP
++ [3] [AI Studio 基线系统示例AI Studio baseline model](https://aistudio.baidu.com/aistudio/projectdetail/360479)
